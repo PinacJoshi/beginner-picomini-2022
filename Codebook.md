@@ -11,12 +11,14 @@ It was as easy as mentioned in the description.
 We first needed to download these files locally. We can simply do this by using the `wget` command.
 
 Choose your directory of choice and run:
+
 `wget https://artifacts.picoctf.net/c/102/code.py`
 
 `wget https://artifacts.picoctf.net/c/102/codebook.txt`
 
 After downloading these files you can run the `ls` command to view if the files have been installed successfully.
 To get the flag you can run:
+
 `python3 code.py`
 
 It will output the flag on the terminal. Simply copy and paste it in the flag box on the challenge page.
