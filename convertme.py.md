@@ -16,9 +16,11 @@ Run to execute the given file simply run:
 
 After executing the file it should show you the following output:
 
-```python3 convertme.py
+```
+python3 convertme.py
 If 94 is in decimal base, what is it in binary base?
-Answer:```
+Answer:
+```
 
 In my case it showed me `94` but in your case it might show something else.
 
